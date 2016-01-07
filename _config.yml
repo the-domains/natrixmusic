@@ -2,6 +2,7 @@ name: NatrixMusic
 favicon: null
 layout_spectrum: 0.93114
 typography_spectrum: 0.19542
+title: Natrix
 cta:
   domain: null
   bucket: null
