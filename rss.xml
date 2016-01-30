@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Natrix]]></title>
         <description><![CDATA[Natrix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natrixmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 22:12:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 00:38:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natrixmusic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Frederik Colman (Artist Name "Natrix") has always been passionate about music, as a little boy he was most intrested in electronic music. When he heard House music for the first time he started turning his favorite music in his bedroom and also on small Party's, when he was 10 years old he began to learn to create his own music. and now he wants to share his music with the world!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d607fb2290f93f9c745d0e29f7755c7405fceb3.jpg"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Frederik Colman (Artist Name "Natrix") has always been passionate about music, as a little boy he was most intrested in electronic music. When he heard House music for the first time he started turning his favorite music in his bedroom and also on small Party's, when he was 10 years old he began to learn to create his own music. and now he wants to share his music with the world!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1f9ed99673404a3aee76cd2ab0c9c5de6efe93f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/natrixmusic/welcome/index.html</link>
             <guid isPermaLink="false">50783bd9-3476-4ca9-a367-c5baeb1fa711</guid>
             <pubDate>Thu, 07 Jan 2016 22:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome</p>]]></description>
+            <link>https://thegrid.ai/natrixmusic/dba26a3d-2e20-44e8-80f7-6cd4e0a0abd2/index.html</link>
+            <guid isPermaLink="false">dba26a3d-2e20-44e8-80f7-6cd4e0a0abd2</guid>
+            <pubDate>Sat, 30 Jan 2016 00:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
